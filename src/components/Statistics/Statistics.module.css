@@ -1,0 +1,30 @@
+.title {
+  color: tomato;
+  display: block;
+  font-size: 25px;
+  text-align: left;
+  margin-left: 40px;
+}
+
+.item {
+  display: inline-block;
+  width: 34px;
+  border: 1px solid darkgrey;
+  padding: 20px;
+  border-radius: 4px;
+  margin-left: 3px;
+}
+
+.label {
+  color: white;
+  display: block;
+  font-size: 18px;
+  text-align: center;
+}
+
+.percentage {
+  color: white;
+  display: block;
+  font-size: 16px;
+  text-align: center;
+}
